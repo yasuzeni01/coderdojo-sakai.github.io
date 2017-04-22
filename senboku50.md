@@ -112,72 +112,72 @@ title: 泉北NT５０周年事業
 
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                <div class="table-responsive" width="100%" >
+                <div width="100%" >
                 <table class="table-bordered" width="100%" style="background:#ffffff;">
                 <tr style="background:#9ACDE7">
-                    <td rowspan="2"><h4 class="text-center">開催日</h4></td>
-                    <td rowspan="2"><h4 class="text-center">開催会場</h4></td>
-                    <td colspan="2"><h4 class="text-center">開催時間</h4></td>
-                    <td rowspan="2"><h4 class="text-center">その他連絡事項</h4></td>
+                    <td rowspan="2"><h5 class="text-center">開催日</h5></td>
+                    <td rowspan="2"><h5 class="text-center">開催会場</h5></td>
+                    <td colspan="2"><h5 class="text-center">開催時間</h5></td>
+                    <td rowspan="2"><h5 class="text-center">その他連絡事項</h5></td>
                 </tr>
                 <tr style="background:#9ACDE7">
-                    <td><h4 class="text-center">Ｄｏｊｏ</h4></td>
-                    <td><h4 class="text-center">説明・相談会</h4></td>
+                    <td><h5 class="text-center">Ｄｏｊｏ</h5></td>
+                    <td><h5 class="text-center">説明・相談会</h5></td>
                 </tr>
                 <tr>
-                    <td><h4>5/14（日）</h4></td>
-                    <td><h4>泉ヶ丘センタービル</h4></td>
-                    <td><h4>10:00〜12:30</h4></td>
-                    <td><h4>13:30〜16:00</h4></td>
-                    <td><h4 class="text-left">説明・相談会の後、「Ozobot体験会」を実施します。</h4></td>
+                    <td>5/14（日）</td>
+                    <td>泉ヶ丘センタービル</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
+                    <td class="text-left">説明・相談会の後、「Ozobot体験会」を実施します。</td>
                 </tr>
                 <tr>
-                    <td><h4>6/11（日）</h4></td>
-                    <td><h4>泉ヶ丘センタービル</h4></td>
-                    <td><h4>10:00〜12:30</h4></td>
-                    <td><h4>13:30〜16:00</h4></td>
+                    <td>6/11（日）</td>
+                    <td>泉ヶ丘センタービル</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
                     <td></td>
                 </tr>
                 <tr>
-                    <td><h4>7/16（日）</h4></td>
-                    <td><h4>泉ヶ丘センタービル</h4></td>
-                    <td><h4>10:00〜12:30</h4></td>
-                    <td><h4>13:30〜16:00</h4></td>
+                    <td>7/16（日）</td>
+                    <td>泉ヶ丘センタービル</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
                     <td></td>
                 </tr>
                 <tr>
-                    <td><h4>8/20（日）</h4></td>
-                    <td><h4>泉ヶ丘センタービル</h4></td>
-                    <td><h4>10:00〜12:30</h4></td>
-                    <td><h4>13:30〜16:00</h4></td>
+                    <td>8/20（日）</td>
+                    <td>泉ヶ丘センタービル</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
                     <td></td>
                 </tr>
                 <tr>
-                    <td><h4>9/17（日）</h4></td>
-                    <td><h4>会場未定</h4></td>
-                    <td><h4>10:00〜12:30</h4></td>
-                    <td><h4>13:30〜16:00</h4></td>
+                    <td>9/17（日）</td>
+                    <td>会場未定</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
                     <td></td>
                 </tr>
                 <tr>
-                    <td><h4>10/15（日）</h4></td>
-                    <td><h4>会場未定</h4></td>
-                    <td><h4>10:00〜12:30</h4></td>
-                    <td><h4>13:30〜16:00</h4></td>
+                    <td>10/15（日）</td>
+                    <td>会場未定</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
                     <td></td>
                 </tr>
                 <tr>
-                    <td><h4>11/12（日）</h4></td>
-                    <td><h4>会場未定</h4></td>
-                    <td><h4>10:00〜12:30</h4></td>
-                    <td><h4>13:30〜16:00</h4></td>
+                    <td>11/12（日）</td>
+                    <td>会場未定</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
                     <td></td>
                 </tr>
                 <tr>
-                    <td><h4>12/17（日）</h4></td>
-                    <td><h4>会場未定</h4></td>
-                    <td><h4>10:00〜12:30</h4></td>
-                    <td><h4>13:30〜16:00</h4></td>
+                    <td>12/17（日）</td>
+                    <td>会場未定</td>
+                    <td>10:00〜12:30</td>
+                    <td>13:30〜16:00</td>
                     <td></td>
                 </tr>
                 </table>
