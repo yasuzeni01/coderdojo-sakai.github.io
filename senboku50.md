@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 泉北NT５０周年事業
+title: 泉北ニュータウンまちびらき５０周年事業
 ---
 {% include JB/setup %}
 
